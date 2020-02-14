@@ -5,7 +5,7 @@ ___
 
 ### git status
 
-### git add index.htm
+### git add index.html
 
 ### git commit -m "alteracao markdown"
 
